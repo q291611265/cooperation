@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 c1 update
+=======
+
+Administrator@PC201508161642 MINGW64 /h/git/git-cooperation/cooperation (master)
+$ vim dev
+
+Administrator@PC201508161642 MINGW64 /h/git/git-cooperation/cooperation (master)
+$ git add dev
+warning: LF will be replaced by C
+>>>>>>> 17789383b3e93b99f6af3dbc81172920b722bf5e
